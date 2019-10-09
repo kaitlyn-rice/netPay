@@ -1,5 +1,5 @@
 # cs145-lab2
 
-My Name: Please edit this.
+My Name: Kaitlyn Rice
 
-About This Project: Please edit this.
+About This Project: This project gets the hours worked by the user then calculates how much each deudction on their paycheck will be to find their net earnings for the week.
