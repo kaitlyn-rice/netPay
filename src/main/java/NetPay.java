@@ -53,5 +53,6 @@ public class NetPay {
       System.out.println();
       System.out.println("Net Pay: \t\t\t" + netPay);
       return netPay;
+	    
     }
 }
